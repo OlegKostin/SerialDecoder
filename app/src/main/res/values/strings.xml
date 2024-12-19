@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SerialDecoder</string>
+    <string name="select_brand">Select Brand</string>
+    <string name="onboarding_content_one">here is the content</string>
+    <string name="onboarding_content">content</string>
 </resources>
